@@ -1,0 +1,28 @@
+/* css styles */
+
+```css
+/* styles.css */
+
+/* Change the background color of the body */
+body {
+  background-color: lightblue;
+}
+
+/* Style the headers */
+h1 {
+  color: darkblue;
+  font-size: 18px;
+}
+
+/* Style code blocks */
+pre {
+  background-color: lightgray;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+/* Style inline code */
+code {
+  color: green;
+  font-weight: bold;
+}
